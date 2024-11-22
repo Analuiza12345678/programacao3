@@ -33,11 +33,14 @@ body {
     .cartao__conteudo{
       text-align: center;
       background-color: rgb(255, 255, 255);
+      text-align: center;
+      text-align: center;
       height: 100%;
     }
     
     .cartao__conteudo h3 {
       background-color: tomato;
+      text-align: center;
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -48,4 +51,5 @@ body {
     
     .cartao__conteudo{
       
+      text-align: center;
       text-align: center;
